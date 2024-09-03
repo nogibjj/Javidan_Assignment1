@@ -1,0 +1,4 @@
+pandas==2.2.2
+pytest==8.3.2 ## for makefile
+pytest-cov==4.0.0
+numpy==2.1.0
