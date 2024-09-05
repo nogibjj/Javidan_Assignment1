@@ -26,3 +26,15 @@ To get started with this project, follow the steps below:
 
 ## Usage
 To run tests for this project, you can use pytest. Ensure that the virtual environment is activated, then run:
+```bash
+   make test
+   ```
+
+To setup the project and create a virtual environment:
+```bash
+   make setup
+   ```
+To install requirements to be able to succefully run application:
+```bash
+   make install
+   ```
